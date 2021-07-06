@@ -22,3 +22,7 @@ li a:hover:not(.active){
 .active{
     background-color: #09aa6f;
 }
+.letak{
+    float: right;
+    border-right: none
+}
